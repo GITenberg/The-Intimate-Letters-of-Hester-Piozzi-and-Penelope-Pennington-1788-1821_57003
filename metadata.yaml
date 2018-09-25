@@ -1,5 +1,8 @@
 _repo: The-Intimate-Letters-of-Hester-Piozzi-and-Penelope-Pennington-1788-1821_57003
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57003-h/images/i_cover.jpg
 creator:
   authors:
   - agent_name: Piozzi, Hester Lynch
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '49139'
     url: http://www.gutenberg.org/2009/agents/49139
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57003#The-Intimate-Letters-of-Hester-Piozzi-and-Penelope-Pennington-1788-1821
 gutenberg_issued: '2018-04-19'
 gutenberg_type: Text
 identifiers:
